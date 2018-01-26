@@ -34,7 +34,7 @@ function onEachFeature(feature, layer) {
 
 function gymMarker(feature, latlng) {
     let gymIcon = L.icon({
-        iconUrl: 'gym.png',
+        iconUrl: 'https://obihoernchen.net/pokemon/core/img/rocket.png',
         iconSize: [32, 32],
         iconAnchor: [24, 32]
     });
