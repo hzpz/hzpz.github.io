@@ -136707,27 +136707,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.047186,
-     52.277509
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5966c267c13",
-    "centerwithin": [],
-    "level12cellid": "47b9e59",
-    "level20cellid": "47b9e5966c3",
-    "marker-color": "#008000",
-    "name": "Eternal Love",
-    "within": [
-     "way/35568950"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      8.042541,
      52.288269
     ]
@@ -136789,27 +136768,6 @@
     "name": "Sitzen Im Bürgerpark",
     "within": [
      "way/35078458"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.052642,
-     52.287807
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5baf60b20b9",
-    "centerwithin": [],
-    "level12cellid": "47b9e5b",
-    "level20cellid": "47b9e5baf61",
-    "marker-color": "#008000",
-    "name": "Großer Vogelbauer",
-    "within": [
-     "way/314739965"
     ]
    }
   },
@@ -136957,28 +136915,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.042681,
-     52.271427
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e592352c3d79",
-    "centerwithin": [],
-    "level12cellid": "47b9e59",
-    "level20cellid": "47b9e592353",
-    "marker-color": "#008000",
-    "name": "Identifikationsplastik",
-    "within": [
-     "way/24503151",
-     "way/360602790"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      8.031171,
      52.275779
     ]
@@ -137017,28 +136953,6 @@
     "name": "Energie",
     "within": [
      "way/233823861"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.054383,
-     52.277117
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5983eefb5ed",
-    "centerwithin": [],
-    "level12cellid": "47b9e59",
-    "level20cellid": "47b9e5983ef",
-    "marker-color": "#008000",
-    "name": "Brunnen Stadtwerke",
-    "within": [
-     "way/288933731",
-     "way/288933759"
     ]
    }
   },
@@ -137303,27 +137217,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.025591,
-     52.282385
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5dd30a259e1",
-    "centerwithin": [],
-    "level12cellid": "47b9e5d",
-    "level20cellid": "47b9e5dd30b",
-    "marker-color": "#008000",
-    "name": "Schaufelrad",
-    "within": [
-     "way/95069396"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      8.024723,
      52.281797
     ]
@@ -137362,27 +137255,6 @@
     "name": "Lokomotiven Achse ",
     "within": [
      "way/184554083"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.020647,
-     52.261219
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5f78bfb2dfd",
-    "centerwithin": [],
-    "level12cellid": "47b9e5f",
-    "level20cellid": "47b9e5f78bf",
-    "marker-color": "#008000",
-    "name": "Grenzstein Wüste",
-    "within": [
-     "way/178706492"
     ]
    }
   },
@@ -137600,27 +137472,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.048484,
-     52.306349
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e449f0574355",
-    "centerwithin": [],
-    "level12cellid": "47b9e45",
-    "level20cellid": "47b9e449f05",
-    "marker-color": "#008000",
-    "name": "Eberle",
-    "within": [
-     "way/184590371"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      8.086297,
      52.255988
     ]
@@ -137659,27 +137510,6 @@
     "name": "Jesuskreuz am Haus Brinke",
     "within": [
      "way/279519096"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.052832,
-     52.322033
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e46aaf6ed6f3",
-    "centerwithin": [],
-    "level12cellid": "47b9e47",
-    "level20cellid": "47b9e46aaf7",
-    "marker-color": "#008000",
-    "name": "Kreuzweg Station Lechtingen",
-    "within": [
-     "way/279123038"
     ]
    }
   },
@@ -137887,48 +137717,6 @@
     "name": "Don Quijote",
     "within": [
      "way/280755737"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.029354,
-     52.296364
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5d1f637642f",
-    "centerwithin": [],
-    "level12cellid": "47b9e5d",
-    "level20cellid": "47b9e5d1f63",
-    "marker-color": "#008000",
-    "name": "Coffee Perfect",
-    "within": [
-     "way/378170729"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     8.032263,
-     52.296791
-    ]
-   },
-   "properties": {
-    "cellid": "47b9e5cde7bd984b",
-    "centerwithin": [],
-    "level12cellid": "47b9e5d",
-    "level20cellid": "47b9e5cde7b",
-    "marker-color": "#008000",
-    "name": "Luxusliner",
-    "within": [
-     "way/235216553"
     ]
    }
   },
