@@ -136741,7 +136741,7 @@
     ],
     "level12cellid": "47b9e5d",
     "level20cellid": "47b9e5c7f43",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Cathedral",
     "within": [
      "way/388220818"
@@ -136856,7 +136856,7 @@
     ],
     "level12cellid": "47b9e59",
     "level20cellid": "47b9e591f07",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Justus W. Lyra Denkmal",
     "within": [
      "way/24503151"
@@ -136879,7 +136879,7 @@
     ],
     "level12cellid": "47b9e59",
     "level20cellid": "47b9e58e1b9",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Sport im Park",
     "within": [
      "way/24666762"
@@ -137064,7 +137064,7 @@
     ],
     "level12cellid": "47b9e5f",
     "level20cellid": "47b9e5ed823",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Industriekultur am Jahnplatz",
     "within": [
      "way/381927887"
@@ -137228,7 +137228,7 @@
     ],
     "level12cellid": "47b9e5d",
     "level20cellid": "47b9e5dd41b",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Solar Flowerpower",
     "within": [
      "way/95069396"
@@ -137320,7 +137320,7 @@
     ],
     "level12cellid": "47b9e67",
     "level20cellid": "47b9e66771d",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Seniorenzentrum Eversburg",
     "within": [
      "way/183204820"
@@ -137389,7 +137389,7 @@
     ],
     "level12cellid": "47b9e67",
     "level20cellid": "47b9e66066d",
-    "marker-color": "#008000",
+    "marker-color": "#000000",
     "name": "Lady Mural",
     "within": [
      "way/183204820"

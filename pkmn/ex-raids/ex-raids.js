@@ -44,8 +44,14 @@ function onEachFeature(feature, layer) {
 }
 
 function gymMarker(feature, latlng) {
+    let iconUrl = 'gym.png';
+    console.log(feature.properties['marker-color']);
+    if (feature.properties && feature.properties['marker-color'] && feature.properties['marker-color'] === '#000000') {
+        iconUrl = 'ex-raid.png'
+    }
+
     let gymIcon = L.icon({
-        iconUrl: 'https://obihoernchen.net/pokemon/core/img/rocket.png',
+        iconUrl: iconUrl,
         iconSize: [32, 32],
         iconAnchor: [24, 32]
     });
