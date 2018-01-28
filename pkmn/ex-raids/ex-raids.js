@@ -53,7 +53,8 @@ function gymMarker(feature, latlng) {
     let gymIcon = L.icon({
         iconUrl: iconUrl,
         iconSize: [32, 32],
-        iconAnchor: [24, 32]
+        iconAnchor: [24, 32],
+        tooltipAnchor: [-12, -18]
     });
 
     let markerOptions = {
