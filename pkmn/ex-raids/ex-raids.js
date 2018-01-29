@@ -39,7 +39,7 @@ function styleFeature(feature) {
 
 function onEachFeature(feature, layer) {
     if (feature.properties && feature.properties.name) {
-        layer.bindTooltip(feature.properties.name);
+        layer.bindTooltip(feature.properties.name, {direction: 'right'});
     }
 }
 
