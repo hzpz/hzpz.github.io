@@ -38,8 +38,13 @@ function styleFeature(feature) {
 }
 
 function onEachFeature(feature, layer) {
-    if (feature.properties && feature.properties.name) {
-        layer.bindTooltip(feature.properties.name, {direction: 'right'});
+    if (feature.properties) {
+        if (feature.properties.name) {
+            layer.bindTooltip(feature.properties.name, {direction: 'right'});
+        }
+        if (feature.properties.dates) {
+            layer.bindPopup(feature.properties.dates.join('<br>'));
+        }
     }
 }
 
@@ -54,7 +59,8 @@ function gymMarker(feature, latlng) {
         iconUrl: iconUrl,
         iconSize: [32, 32],
         iconAnchor: [24, 32],
-        tooltipAnchor: [-12, -18]
+        tooltipAnchor: [-12, -18],
+        popupAnchor: [-12, -18]
     });
 
     let markerOptions = {
